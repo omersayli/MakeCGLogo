@@ -3,6 +3,6 @@ Makes Logos for the Article Text, uses the Logo of the Cosmopolitan Globalist, h
 
 You can download the files and rum them on your computer, using Jupyter notebook server on your local machine. Alternative way is to use mybinder.org
 
-check the status of the servers at of Mybinder can be checked through: http://mybinder.org/status
+check the status of the servers at of Mybinder can be checked through: http://mybinder.org, 
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/kmcquighan/calc-ii-numerical-methods)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/omersayli/MakeCGLogo/CG.ipynb)
