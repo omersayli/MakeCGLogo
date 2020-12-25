@@ -5,4 +5,4 @@ You can download the files and rum them on your computer, using Jupyter notebook
 
 check the status of the servers at of Mybinder can be checked through: http://mybinder.org, 
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/omersayli/MakeCGLogo/CG.ipynb)
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/omersayli/MakeCGLogo/HEAD?filepath=CG.ipynb)
